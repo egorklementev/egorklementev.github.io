@@ -1,0 +1,33 @@
+- title: "The Last of Merge"
+  image: "assets/the_last_of_merge.png"
+  description: "Mobile game in merge genre. Combine two items to craft a new one, improve your equipment, send your survivor to scavange the city for new items, fight other players in async PVP."
+  tags: ["Unity", "C#", "ASP .NET", "PostreSQL", "RabbitMQ", "Docker", "Prometheus", "GameAnalytics", "Addressables"]
+  links:
+    - name: "GitHub"
+      url: "https://github.com/egorklementev/the_last_of_merge"
+    - name: "Readme"
+      url: "https://github.com/egorklementev/the_last_of_merge#readme"
+
+- title: "Dungeon Chests: Clicker"
+  image: "assets/dcc.gif"
+  description: "Mobile/Web game in clicker genre. Minecraft-like setting, player clicks to defeat monsters and to get to chests. Random item is obtained from a chest, increasing inventory value and DPS of a player."
+  tags: ["Unity", "C#", "Plugin Your Games", "MyTracker", "GameAnalytics"]
+  links:
+    - name: "RuStore"
+      url: "https://www.rustore.ru/catalog/app/ru.hyperbolicgames.DungeonChestClicker"
+
+- title: "AlHero: Run!"
+  image: "assets/alherorun.gif"
+  description: "Mobile/Web game in runner genre. Run as far as you can, evade obstacles & monsters, collect ingredients and cook potions for score points."
+  tags: ["Unity", "C#", "ASP .NET", "MS SQL", "Asset Bundles", "GameAnalytics"]
+  links:
+    - name: "RuStore"
+      url: "https://www.rustore.ru/catalog/app/ru.hyperbolicgames.alherorun"
+
+- title: "Cyberments"
+  image: "assets/cyberments.gif"
+  description: "PC indie game in racing genre. Play as a policemen in futuristic Russian mega-panel structures. Catch criminals, eliminate enemies, make streets safe again."
+  tags: ["Unity", "C#", "VKplay", "Steam"]
+  links:
+    - name: "YouTube"
+      url: "https://www.youtube.com/watch?v=HLyFeGLJEpk"
