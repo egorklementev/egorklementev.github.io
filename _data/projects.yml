@@ -31,3 +31,28 @@
   links:
     - name: "YouTube"
       url: "https://www.youtube.com/watch?v=HLyFeGLJEpk"
+
+- title: "AlHero"
+  image: "assets/alhero.gif"
+  description: "Mobile game about young alchemist who travels the world, collects ingredient & sell potions in his bar."
+  tags: ["Unity", "C#", "Google Play Market", "RuStore"]
+  links:
+    - name: "RuStore"
+      url: "https://www.rustore.ru/catalog/app/ru.hyperbolic_games.AlHero"
+
+- title: "S.T.A.L.M.I.N.E."
+  image: "assets/stalmine.png"
+  description: "Minecraft mod. Includes a STALKER guns, anomalies, artifacts, blocks and many more. Created a whole single-player map with some story & side quests."
+  tags: ["Java", "Forge", "Client/Server"]
+  links:
+    - name: "Minecraft Inside"
+      url: "https://minecraft-inside.ru/mods/153227-stalmine.html"
+
+- title: "Space Flight 3D"
+  image: "assets/sf3d.gif"
+  description: "My first Unity game. Remaster of my libGDX 2D game in 3D. Match-3, casual, rocket upgrades, exploration, level editor."
+  tags: ["Unity", "C#"]
+  links:
+    - name: "GitHub"
+      url: "https://github.com/egorklementev/spaceflight3dv2"
+
